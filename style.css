@@ -17,6 +17,10 @@
 }
 
 
-.container{
-    display: inline;
+div{
+    display: block;
+}
+
+#contact{
+    text-align: center;
 }
