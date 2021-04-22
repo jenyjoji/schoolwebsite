@@ -59,15 +59,9 @@ margin-left: 20px;
     text-align: center;
 }
 
-
-
-
-#details{
-    float: right;
-}
-
-#map{
-    float: left;
+#img2{
+    width: 200px;
+    height: 200px;
 }
 
 .news_li{
@@ -92,4 +86,39 @@ margin-left: 20px;
 
 #achievements{
     margin-top: 50px;
+}
+
+.alum
+{
+  cursor: pointer;
+}
+
+.alum hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+    height: 60%;
+  }
+
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+#footer{
+    height: 20px;
+    background-color: white;
 }
